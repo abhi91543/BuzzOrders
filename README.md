@@ -46,4 +46,6 @@ Make sure you have Node.js, Python, and MySQL installed on your machine.
     * Start the frontend development server.
 
 ## 📸 Screenshots
+<img width="1919" height="1071" alt="image" src="https://github.com/user-attachments/assets/b019c20e-b9a2-4b18-9e47-11bb3e5d543d" />
+
 
