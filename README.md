@@ -1,4 +1,4 @@
-**# BuzzOrders - In-Theatre Food Ordering System**
+**# Interval or BuzzOrders - In-Theatre Food Ordering System**
 
 An end-to-end full-stack web application designed to solve the real-world problem of ordering food inside a movie theatre without leaving your seat. This project showcases a complete development cycle from concept and design to deployment.
 
