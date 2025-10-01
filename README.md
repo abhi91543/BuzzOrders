@@ -1,20 +1,49 @@
-# BuzzOrders - In-Theatre Food Ordering System
+**# BuzzOrders - In-Theatre Food Ordering System**
 
-## Project Description
-BuzzOrders is a full-stack web application that allows movie-goers to order food and beverages directly from their seats using their smartphones. This project was built to solve the real-world problem of missing parts of a movie while waiting in long queues at the concession stand.
----
-## Features
-Customer Authentication:Secure login and signup functionality for users.
-Interactive Menu:Users can browse a dynamic menu with different categories (e.g., Popcorn, Drinks, Snacks).
-Shopping Cart:A fully functional shopping cart where users can add/remove items and see the total price.
-Order Placement:A seamless order placement process (with a simulated payment for this demo version).
-Theatre Staff Dashboard:A separate interface for theatre staff to view and manage all incoming orders in real-time.
----
-## Tech Stack
-This project was built using the following technologies:
-Frontend:React.js, HTML5, CSS3, Tailwind CSS
-Backend:Python with the Flask framework.
-Database:MySQL, Google Firestore Database.
-API:RESTful API for communication between the frontend and backend.
-Version Control:Git & GitHub
----
+An end-to-end full-stack web application designed to solve the real-world problem of ordering food inside a movie theatre without leaving your seat. This project showcases a complete development cycle from concept and design to deployment.
+
+**## ✨ Features**
+
+* **User Authentication:** Secure user login and signup functionality.
+* **Dynamic Menu:** Real-time menu browsing to see available items.
+* **Shopping Cart:** Fully functional cart to add, remove, and manage items before ordering.
+* **Order Placement:** Seamless order placement process.
+* **Staff Dashboard:** A dedicated dashboard for theatre staff to view and manage incoming orders in real-time.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+* **Backend:** Python (Flask), RESTful APIs
+* **Database:** MySQL
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js, Python, and MySQL installed on your machine.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/abhi91543/BuzzOrders.git](https://github.com/abhi91543/BuzzOrders.git)
+    ```
+2.  **Install frontend dependencies:**
+    ```bash
+    cd frontend  # Your Frondend folder name
+    npm install
+    ```
+3.  **Install backend dependencies:**
+    ```bash
+    cd backend  # Your backend Folder name
+    pip install -r requirements.txt
+    ```
+4.  **Set up the database:**
+    * Create a MySQL database named `buzzorders`.
+    * Import the provided `.sql` file to set up the tables.
+5.  **Run the application:**
+    * Start the backend server.
+    * Start the frontend development server.
+
+## 📸 Screenshots
+
